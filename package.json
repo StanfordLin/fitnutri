@@ -1,0 +1,27 @@
+{
+  "name": "fitnutri",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@fitbit/sdk": "~1.0.2",
+    "@fitbit/sdk-cli": "^1.0.1"
+  },
+  "fitbit": {
+    "appUUID": "20b8a5e4-7594-47be-ac1d-be3b34dac8c3",
+    "appType": "app",
+    "appDisplayName": "Fitnutri",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffffff",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {}
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  }
+}
