@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "version": 1,
+            "packageIdentifiers": [
+                {
+                    "type": "foodname",
+                    "value": "Sandwich Crackers, Peanut Butter"
+                },
+                {
+                    "type": "food_name",
+                    "value": "Sandwich Crackers, Peanut Butter"
+                },
+                {
+                    "type": "brand_name",
+                    "value": "Ritz"
+                },
+                {
+                    "type": "nf_potassium",
+                    "value": "4"
+                },
+                {
+                    "type": "protein",
+                    "value": "4"
+                },
+                {
+                    "type": "fat",
+                    "value": "11"
+                },
+                {
+                    "type": "carbohydrate",
+                    "value": "22"
+                },
+                {
+                    "type": "nf_p",
+                    "value": "4"
+                },
+                {
+                    "type": "nf_potassium",
+                    "value": "4"
+                },
+                {
+                    "type": "nf_potassium",
+                    "value": "4"
+                }    
+        ],
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "String"
+                }
+            ]
+        },
+        "merchandiseCategory": {
+            "nodeId": "null"
+        },
+        "itemId": {
+            "itemCode": "019320068331"
+        },
+        "departmentId": "produce"
+    }
+]
+}
